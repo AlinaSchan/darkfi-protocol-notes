@@ -1,0 +1,29 @@
+{
+ "tool": "repository-history-tools history.py 0.1.0",
+ "generated_at": "2026-09-15T13:33:24+00:00",
+ "git_version": "git version 2.54.0.windows.1",
+ "repository": "darkfi",
+ "remote": "https://github.com/darkrenaissance/darkfi",
+ "rev": "HEAD",
+ "head": "a5514cb2cecdc791ed8de68440455433beeebe7a",
+ "head_date": "2026-09-10",
+ "first_commit": {
+  "sha": "2cf6a85a810ce8380336449be4d6f0ec5b12c745",
+  "author_date": "2020-08-20T19:13:09+00:00",
+  "committer_date": "2020-08-20T19:13:09+00:00"
+ },
+ "commits": 11375,
+ "merge_commits": 144,
+ "contributors": 104,
+ "files_at_head": 1688,
+ "paths_ever_changed": 6032,
+ "months": 74,
+ "options": {
+  "since": null,
+  "until": null,
+  "depth": 2,
+  "top": 0,
+  "date": "committer",
+  "renames": "off"
+ }
+}
