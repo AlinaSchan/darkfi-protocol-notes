@@ -81,4 +81,4 @@ pages cited:
 ## tooling
 
 - repository-history-tools, run 2026-09-15 with default options against the commit above:
-  https://github.com/alinaschanz/repository-history-tools
+  https://github.com/AlinaSchan/repository-history-tools

@@ -33,7 +33,7 @@ which answers as a gogs instance; the same repository is on github under `darkre
 - [observable state](notes/observable-state.md): the question that started this. what can an outside
   observer actually see?
 - [development history](notes/development-history.md): what the git history shows, with numbers from
-  [repository-history-tools](https://github.com/alinaschanz/repository-history-tools)
+  [repository-history-tools](https://github.com/AlinaSchan/repository-history-tools)
 
 [sources.md](sources.md) lists the primary sources. paths in the notes such as
 `doc/src/arch/consensus.md` point into the darkfi repository at commit `a5514cb2` (2026-09-10). the

@@ -1,7 +1,7 @@
 # development history
 
 what the public git history of darkfi shows. the numbers come from
-[repository-history-tools](https://github.com/alinaschanz/repository-history-tools) run on
+[repository-history-tools](https://github.com/AlinaSchan/repository-history-tools) run on
 2026-09-15 against the github copy of the repository at commit `a5514cb2` (2026-09-10). dates are
 committer dates in utc, rename detection is off, and merge commits count as commits without file
 changes; see the tool's readme for what that does to the counts. the csv files themselves are in
